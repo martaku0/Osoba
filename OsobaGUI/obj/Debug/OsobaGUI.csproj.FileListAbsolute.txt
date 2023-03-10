@@ -1,0 +1,42 @@
+C:\Users\marta\source\repos\Osoba\OsobaGUI\bin\Debug\OsobaGUI.exe.config
+C:\Users\marta\source\repos\Osoba\OsobaGUI\bin\Debug\OsobaGUI.exe
+C:\Users\marta\source\repos\Osoba\OsobaGUI\bin\Debug\OsobaGUI.pdb
+C:\Users\marta\source\repos\Osoba\OsobaGUI\obj\Debug\MainWindow.g.cs
+C:\Users\marta\source\repos\Osoba\OsobaGUI\obj\Debug\OsobaWindow.g.cs
+C:\Users\marta\source\repos\Osoba\OsobaGUI\obj\Debug\App.g.cs
+C:\Users\marta\source\repos\Osoba\OsobaGUI\obj\Debug\OsobaGUI_MarkupCompile.cache
+C:\Users\marta\source\repos\Osoba\OsobaGUI\obj\Debug\OsobaGUI_MarkupCompile.lref
+C:\Users\marta\source\repos\Osoba\OsobaGUI\obj\Debug\MainWindow.baml
+C:\Users\marta\source\repos\Osoba\OsobaGUI\obj\Debug\OsobaWindow.baml
+C:\Users\marta\source\repos\Osoba\OsobaGUI\obj\Debug\OsobaGUI.g.resources
+C:\Users\marta\source\repos\Osoba\OsobaGUI\obj\Debug\OsobaGUI.Properties.Resources.resources
+C:\Users\marta\source\repos\Osoba\OsobaGUI\obj\Debug\OsobaGUI.csproj.GenerateResource.cache
+C:\Users\marta\source\repos\Osoba\OsobaGUI\obj\Debug\OsobaGUI.csproj.CoreCompileInputs.cache
+C:\Users\marta\source\repos\Osoba\OsobaGUI\obj\Debug\OsobaGUI.exe
+C:\Users\marta\source\repos\Osoba\OsobaGUI\obj\Debug\OsobaGUI.pdb
+C:\Users\marta\source\repos\Osoba\OsobaGUI\bin\Debug\Osoba.exe
+C:\Users\marta\source\repos\Osoba\OsobaGUI\bin\Debug\Osoba.pdb
+C:\Users\marta\source\repos\Osoba\OsobaGUI\bin\Debug\Osoba.exe.config
+C:\Users\marta\source\repos\Osoba\OsobaGUI\obj\Debug\OsobaGUI.csproj.AssemblyReference.cache
+C:\Users\marta\source\repos\Osoba\OsobaGUI\obj\Debug\OsobaGUI.csproj.CopyComplete
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\OsobaGUI\bin\Debug\OsobaGUI.exe.config
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\OsobaGUI\bin\Debug\OsobaGUI.exe
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\OsobaGUI\bin\Debug\OsobaGUI.pdb
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\OsobaGUI\bin\Debug\Osoba.exe
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\OsobaGUI\bin\Debug\Osoba.pdb
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\OsobaGUI\bin\Debug\Osoba.exe.config
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\OsobaGUI\obj\Debug\OsobaGUI.csproj.AssemblyReference.cache
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\OsobaGUI\obj\Debug\MainWindow.g.cs
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\OsobaGUI\obj\Debug\OsobaWindow.g.cs
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\OsobaGUI\obj\Debug\App.g.cs
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\OsobaGUI\obj\Debug\OsobaGUI_MarkupCompile.cache
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\OsobaGUI\obj\Debug\OsobaGUI_MarkupCompile.lref
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\OsobaGUI\obj\Debug\MainWindow.baml
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\OsobaGUI\obj\Debug\OsobaWindow.baml
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\OsobaGUI\obj\Debug\OsobaGUI.g.resources
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\OsobaGUI\obj\Debug\OsobaGUI.Properties.Resources.resources
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\OsobaGUI\obj\Debug\OsobaGUI.csproj.GenerateResource.cache
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\OsobaGUI\obj\Debug\OsobaGUI.csproj.CoreCompileInputs.cache
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\OsobaGUI\obj\Debug\OsobaGUI.csproj.CopyComplete
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\OsobaGUI\obj\Debug\OsobaGUI.exe
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\OsobaGUI\obj\Debug\OsobaGUI.pdb

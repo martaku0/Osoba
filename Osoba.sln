@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osoba", "Osoba\Osoba.csproj", "{3029403F-242D-4F28-ABE1-DAF9A56D504E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsobaGUI", "OsobaGUI\OsobaGUI.csproj", "{809062B3-D113-428E-ADE8-2A20BBEABE0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3029403F-242D-4F28-ABE1-DAF9A56D504E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3029403F-242D-4F28-ABE1-DAF9A56D504E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3029403F-242D-4F28-ABE1-DAF9A56D504E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3029403F-242D-4F28-ABE1-DAF9A56D504E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{809062B3-D113-428E-ADE8-2A20BBEABE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{809062B3-D113-428E-ADE8-2A20BBEABE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{809062B3-D113-428E-ADE8-2A20BBEABE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{809062B3-D113-428E-ADE8-2A20BBEABE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E589D16C-4603-4434-A522-60D4CD6FF27A}
+	EndGlobalSection
+EndGlobal

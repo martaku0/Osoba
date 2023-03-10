@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Zespol xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <liczbaCzlonkow>6</liczbaCzlonkow>
+  <nazwa>Programiści</nazwa>
+  <kierownik>
+    <imie>Jan</imie>
+    <nazwisko>Kowalski</nazwisko>
+    <dataUrodzenia>1999-07-01T00:00:00</dataUrodzenia>
+    <pesel>90070142412</pesel>
+    <plec>M</plec>
+    <godzina>0</godzina>
+    <tel>000000000</tel>
+    <doswiadczenie>5</doswiadczenie>
+  </kierownik>
+  <czlonkowie />
+</Zespol>

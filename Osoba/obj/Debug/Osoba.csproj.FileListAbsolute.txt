@@ -1,0 +1,14 @@
+C:\Users\marta\source\repos\Osoba\Osoba\obj\Debug\Osoba.csproj.CoreCompileInputs.cache
+C:\Users\marta\source\repos\Osoba\Osoba\bin\Debug\Osoba.exe.config
+C:\Users\marta\source\repos\Osoba\Osoba\bin\Debug\Osoba.exe
+C:\Users\marta\source\repos\Osoba\Osoba\bin\Debug\Osoba.pdb
+C:\Users\marta\source\repos\Osoba\Osoba\obj\Debug\Osoba.csproj.AssemblyReference.cache
+C:\Users\marta\source\repos\Osoba\Osoba\obj\Debug\Osoba.exe
+C:\Users\marta\source\repos\Osoba\Osoba\obj\Debug\Osoba.pdb
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\Osoba\bin\Debug\Osoba.exe.config
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\Osoba\bin\Debug\Osoba.exe
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\Osoba\bin\Debug\Osoba.pdb
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\Osoba\obj\Debug\Osoba.csproj.AssemblyReference.cache
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\Osoba\obj\Debug\Osoba.csproj.CoreCompileInputs.cache
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\Osoba\obj\Debug\Osoba.exe
+C:\Users\marta\Downloads\Kurowska Marta 2P1 - GUI\Osoba\Osoba\obj\Debug\Osoba.pdb
